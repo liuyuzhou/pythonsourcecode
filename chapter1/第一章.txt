@@ -1,0 +1,5 @@
+# 正确输入
+>>> print ('Hello,world!')
+
+# 错误输入
+>>> print (Hello,world!)
